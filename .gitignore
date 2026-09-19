@@ -1,0 +1,5 @@
+.DS_Store
+
+# Local runtime logs are written outside the repository by the startup agents.
+*.log
+*.err
